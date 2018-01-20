@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAX_OSCURO.Plugins", "MAX_OSCURO.Plugins.csproj", "{A26AB96E-ACC9-D5E6-8A54-E2300F38ADF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAX_OSCURO", "MAX_OSCURO.csproj", "{A4B605C5-CD3E-A05E-2ED1-CB960BD5B99A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAX_OSCURO.Editor.Plugins", "MAX_OSCURO.Editor.Plugins.csproj", "{F49A9793-A161-7BF0-4741-F6E8D67FF378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26AB96E-ACC9-D5E6-8A54-E2300F38ADF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26AB96E-ACC9-D5E6-8A54-E2300F38ADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26AB96E-ACC9-D5E6-8A54-E2300F38ADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26AB96E-ACC9-D5E6-8A54-E2300F38ADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B605C5-CD3E-A05E-2ED1-CB960BD5B99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B605C5-CD3E-A05E-2ED1-CB960BD5B99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B605C5-CD3E-A05E-2ED1-CB960BD5B99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B605C5-CD3E-A05E-2ED1-CB960BD5B99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49A9793-A161-7BF0-4741-F6E8D67FF378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49A9793-A161-7BF0-4741-F6E8D67FF378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49A9793-A161-7BF0-4741-F6E8D67FF378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49A9793-A161-7BF0-4741-F6E8D67FF378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
