@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAX_1_OSCURO_02.Plugins", "NAX_1_OSCURO_02.Plugins.csproj", "{A398E3C0-C7E1-E851-987B-0CDA26D7D7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAX_1_OSCURO_02", "NAX_1_OSCURO_02.csproj", "{C04654B0-2DFA-EADA-F4D5-20D82F029BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAX_1_OSCURO_02.Editor.Plugins", "NAX_1_OSCURO_02.Editor.Plugins.csproj", "{AC4EC9E3-89F0-CB38-5950-E826963A3EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A398E3C0-C7E1-E851-987B-0CDA26D7D7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A398E3C0-C7E1-E851-987B-0CDA26D7D7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A398E3C0-C7E1-E851-987B-0CDA26D7D7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A398E3C0-C7E1-E851-987B-0CDA26D7D7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04654B0-2DFA-EADA-F4D5-20D82F029BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04654B0-2DFA-EADA-F4D5-20D82F029BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04654B0-2DFA-EADA-F4D5-20D82F029BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04654B0-2DFA-EADA-F4D5-20D82F029BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4EC9E3-89F0-CB38-5950-E826963A3EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4EC9E3-89F0-CB38-5950-E826963A3EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4EC9E3-89F0-CB38-5950-E826963A3EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4EC9E3-89F0-CB38-5950-E826963A3EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
