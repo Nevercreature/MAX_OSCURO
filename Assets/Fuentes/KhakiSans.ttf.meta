@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6f021f9b871774b4bae275618163d0dc
+timeCreated: 1514371879
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KhakiSans8pt
+  fontNames:
+  - KhakiSans8pt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
